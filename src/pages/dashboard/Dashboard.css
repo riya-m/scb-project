@@ -1,0 +1,11 @@
+.container{
+    margin-top: 5%;
+}
+.modal-button{
+    margin-left: 70% !important;
+    margin-bottom: 10px !important;
+    background-color: #ffffff !important;
+    color: black !important;
+    font-style: inherit !important;
+    text-transform: unset !important;
+}
